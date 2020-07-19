@@ -10,3 +10,5 @@ As the State does not contain enough information, the AI won't be able to play o
 
 How Good is this AI?
 With about 50,000 games training, it scores about 4.6 food on average and can go as high as 18 if it gets lucky.Obviously, there is still room for improvement.
+
+![Alt Text](https://github.com/Arpit-Saxena-10/Snake-AI-Reinforcement-Learning-/blob/master/9.gif)
